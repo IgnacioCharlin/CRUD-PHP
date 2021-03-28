@@ -1,0 +1,56 @@
+html{
+    height: 100%;
+}
+
+body{
+    width: 80%;
+    margin: auto !important;
+    background-image: linear-gradient(to right top, #051937, #00446b, #00759d, #00abc9, #12e2eb);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+/** Index **/
+
+i{
+    color: black;
+}
+table{
+    -webkit-box-shadow: 3px 3px 7px rgb(126, 125, 125);
+    -moz-box-shadow: 3px 3px 7px rgb(102, 101, 101);
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.bienvenido{
+    margin-top: 1rem;
+    color: white;
+    text-align: center;
+}
+
+.bienvenido span{
+    font-weight: bolder;
+}
+
+.formulario{
+    background-color: rgb(240, 240, 240);
+    padding: 1.5rem;
+    -webkit-box-shadow: 3px 3px 7px rgb(126, 125, 125);
+    -moz-box-shadow: 3px 3px 7px rgb(102, 101, 101);
+}
+
+/** Login  **/
+.titular{
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.login{
+    background-color: rgb(240, 240, 240);
+    padding: 1.5rem;
+    width: 50%;
+    -webkit-box-shadow: 3px 3px 7px rgb(126, 125, 125);
+    -moz-box-shadow: 3px 3px 7px rgb(102, 101, 101);
+}
